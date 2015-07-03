@@ -9,10 +9,10 @@ $kxjConfig = array(
 	'db' => array(
 	'host' => '127.0.0.1',			//数据库地址
 	'port' => 3306,					//数据库端口
-	'database' => 'doyo',		//数据库名
-	'login' => 'root',				//数据库帐号
-	'password' => '',			//数据库密码
-	'prefix' => 'dy_',				//数据库表前缀
+	'database' => 'kxj',		//数据库名
+	'username' => 'root',				//数据库帐号
+	'password' => 'root',			//数据库密码
+	'prefix' => 'j_',				//数据库表前缀
 	),
 	'ext' => array(
 	'version' => '1.0',
