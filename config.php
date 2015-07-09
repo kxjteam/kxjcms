@@ -12,10 +12,11 @@ $kxjConfig = array(
 	'database' => 'kxj',		//数据库名
 	'username' => 'root',				//数据库帐号
 	'password' => 'root',			//数据库密码
-	'prefix' => 'j_',				//数据库表前缀
+	'prefix' => 'dy_'				//数据库表前缀
 	),
 	'ext' => array(
 	'version' => '1.0',
 	'update' => '20150703',
+	'view_themes' => 'default'
 	)
 );
